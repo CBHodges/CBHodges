@@ -8,8 +8,12 @@ Every fact in my graphs shows who said it and where it came from. Each public gr
 
 **Public knowledge graphs**
 
-- [grounding-layer-kg](https://github.com/CBHodges/grounding-layer-kg): the core terms behind grounded AI, as a checked concept graph
-- [corsair-esop-kg](https://github.com/CBHodges/corsair-esop-kg): a public ESOP plan document turned into a linked, checked graph
+- [grounding-layer-kg](https://github.com/CBHodges/grounding-layer-kg): the core terms behind grounded AI, as a checked concept graph. DOI [10.5281/zenodo.22945389](https://doi.org/10.5281/zenodo.22945389)
+- [corsair-esop-kg](https://github.com/CBHodges/corsair-esop-kg): a public ESOP plan document turned into a linked, checked graph. DOI [10.5281/zenodo.22945451](https://doi.org/10.5281/zenodo.22945451)
+
+**Book**
+
+- *Structured for Success: How JSON-LD Helps Machines Understand Your Website, Without the Hype* (Expanded Research Edition, 2026). DOI [10.5281/zenodo.22945585](https://doi.org/10.5281/zenodo.22945585)
 
 **Elsewhere**
 
